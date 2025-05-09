@@ -1,4 +1,4 @@
-# Metro Connectivity Index Solver – ASA Project 2 (2024/25)
+# Metro Connectivity – ASA Project 2 (2024/25)
 
 ## 🔍 Overview
 This program computes the **metro connectivity index** `mc` of an urban rail network.  
@@ -36,6 +36,4 @@ network, guaranteeing that `mc ≥ 0`.
 ### Solve an instance
 ```bash
 ./solver < network.txt
-# or, following the original statement:
-./a.out < testfile
 ```
